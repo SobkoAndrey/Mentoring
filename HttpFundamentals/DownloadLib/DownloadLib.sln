@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadLib", "DownloadLib\DownloadLib.csproj", "{E70542E1-BCA5-4293-8A09-BF8344B8FDD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadLibUser", "DownloadLibUser\DownloadLibUser.csproj", "{AE4415A8-3ACA-44A7-B31F-5518C590F0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E70542E1-BCA5-4293-8A09-BF8344B8FDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70542E1-BCA5-4293-8A09-BF8344B8FDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70542E1-BCA5-4293-8A09-BF8344B8FDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70542E1-BCA5-4293-8A09-BF8344B8FDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4415A8-3ACA-44A7-B31F-5518C590F0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4415A8-3ACA-44A7-B31F-5518C590F0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4415A8-3ACA-44A7-B31F-5518C590F0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4415A8-3ACA-44A7-B31F-5518C590F0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
