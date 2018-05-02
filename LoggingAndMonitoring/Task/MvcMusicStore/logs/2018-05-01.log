@@ -1,0 +1,25 @@
+2018-05-01 17:03:27.3008 | DEBUG | The user Andrey has gone
+2018-05-01 17:03:30.6485 | INFO | The user Andrey has come
+2018-05-01 17:03:34.6722 | ERROR | StoreController\Browse - Rock genre is broken
+2018-05-01 17:03:38.4270 | DEBUG | The user Andrey has gone
+2018-05-01 17:03:40.8667 | ERROR | StoreController\Browse - Rock genre is broken
+2018-05-01 17:03:44.1303 | INFO | The user Andrey has come
+2018-05-01 17:17:41.0463 | DEBUG | The user Andrey has gone
+2018-05-01 17:17:44.7856 | INFO | The user Andrey has come
+2018-05-01 17:18:40.8406 | DEBUG | The user Andrey has gone
+2018-05-01 17:18:44.2080 | INFO | The user Andrey has come
+2018-05-01 17:20:21.7936 | DEBUG | The user Andrey has gone
+2018-05-01 17:20:24.3899 | INFO | The user Andrey has come
+2018-05-01 17:22:57.6422 | DEBUG | The user Andrey has gone
+2018-05-01 17:23:00.3742 | INFO | The user Andrey has come
+2018-05-01 17:24:47.0389 | ERROR | StoreController\Browse - Rock genre is broken
+2018-05-01 17:24:48.0645 | DEBUG | The user Andrey has gone
+2018-05-01 17:24:50.5517 | ERROR | StoreController\Browse - Rock genre is broken
+2018-05-01 17:24:52.6056 | ERROR | StoreController\Browse - Rock genre is broken
+2018-05-01 17:24:54.9973 | INFO | The user Andrey has come
+2018-05-01 17:28:23.6785 | DEBUG | The user Andrey has gone
+2018-05-01 17:28:26.2160 | INFO | The user Andrey has come
+2018-05-01 17:28:30.9787 | ERROR | StoreController\Browse - Rock genre is broken
+2018-05-01 17:31:41.4824 | DEBUG | The user Andrey has gone
+2018-05-01 17:31:44.0175 | INFO | The user Andrey has come
+2018-05-01 17:31:47.5029 | ERROR | StoreController\Browse - Rock genre is broken
